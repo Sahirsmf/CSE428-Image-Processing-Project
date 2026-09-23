@@ -55,10 +55,6 @@ This project was built and run entirely in Google Colab, so the notebook is the 
    - `"final"` — generate the comparison tables across all trained models (requires the checkpoints above to already exist)
    - `"demo"` — load all saved checkpoints and run predictions on an image you upload
 
-## Results
-
-`[Add your final mIoU / Dice / pixel accuracy and classification accuracy / precision / recall / F1 numbers here once you've run the "final" stage — pull them straight from the report CSVs saved to your Drive artifact folder.]`
-
 ## Acknowledgments
 
 - Dataset: O. M. Parkhi et al., *Cats and Dogs*, Oxford-IIIT Pet Dataset
